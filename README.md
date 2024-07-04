@@ -1,4 +1,4 @@
-Task Management Web Application
+### TASK MANAGEMENT APPLICATION
 
 ### OVERVIEW
 This is a web-based task management application designed to simplify personal to-do's and tracking for individuals. 
